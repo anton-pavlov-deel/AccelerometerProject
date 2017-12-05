@@ -6,11 +6,19 @@
 	<script src="./lib/flot/jquery.js"></script>
 	<script src="./lib/flot/jquery.flot.js"></script>
 	<script src="./lib/flot/jquery.flot.time.js"></script>
+	<link rel="stylesheet" href="./css/style.css">
 </head>
 <body>
-	<div id="placeholderX" style="width:350px;height:200px;"></div>
-	<div id="placeholderY" style="width:350px;height:200px;"></div>
-	<div id="placeholderZ" style="width:350px;height:200px;"></div>
+	<div id="placeholderX" class="graphics"></div>
+	<p id="labelx" class="GraphLabel" align="center">X:</p>
+	<div id="placeholderY" class="graphics"></div>
+	<p id="labely" class="GraphLabel" align="center">Y:</p>
+	<div id="placeholderZ" class="graphics"></div> 
+	<p id="labelz" class="GraphLabel" align="center">Z:</p>
+	<div id="controlDiv">
+		<input type="button" id="recordButton" value="Start"></input>
+		<input type="button" id="showButton" value="Show Record"></input>
+	</div>
 	<script src="./js/main.js"></script>
 </body>
 </html>

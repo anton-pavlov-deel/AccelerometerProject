@@ -1,10 +1,54 @@
+.graphics {
+	position: relative;
+	left: 10%;
+	width: 85%;
+	height: 25%;
+	color: #DDDDDD
+}
+
+.GraphLabel {
+	color: #000000;
+	position: absolute;
+	left: 3%;
+}
+
+#labelx {
+	top: 7%;
+}
+
+#labely {
+	top: 32%;
+}
+
+#labelz {
+	top: 57%;
+}
+
+#controlDiv {
+	margin: 10px;
+}
+
+#recordButton {
+	font-size: 20px;
+	margin: 10px;
+	width: 25%;
+	height: 50px;
+}
+
+#showButton {
+	font-size: 20px;
+	margin: 10px;
+	width: 40%;
+	height: 50px;
+}
+
 html,
 body {
     width: 100%;
     height: 100%;
     margin: 0 auto;
     padding: 0;
-    background-color: #222222;
+    background-color: #95cf9e;
     color: #ffffff;
 }
 .page {
@@ -22,3 +66,4 @@ body {
     font-weight: bold;
     font-size: 5em;
 }
+

@@ -2,17 +2,25 @@
 <SignedInfo>
 <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
 <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
+<Reference URI="BasicUI.wgt">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wGpY05Gt9MpzSTmpWX/MI6PAx8Z08e7JxJbwvbNVt1g=</DigestValue>
+</Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>x8dt7zg14XqtCsSpNBcsQdS0H/44RAGwPeaYEFUAEVA=</DigestValue>
+<DigestValue>oMFjyVxGC2JRyRadwW6X7fH3noBYhII2tVwr0so4Kt8=</DigestValue>
 </Reference>
 <Reference URI="css%2Fstyle.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>Yc5/Km/O7fXXLzDC0Xc34K+k00+3OFIEkRFZXNT7pAI=</DigestValue>
+<DigestValue>5ZESj6lud529hSWW0G/xNuKfjtrp5HNjwWAB92KwVj8=</DigestValue>
 </Reference>
 <Reference URI="icon.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>1d0oEZHqPn+QzNzGIHwj9ODby6x9ggFs9uOsav6jPNs=</DigestValue>
+</Reference>
+<Reference URI="images%2Fplay.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>aNOSDWDh9tNIM5VwfWmy6C6bJLo+j7p3D6t2Kk11Trc=</DigestValue>
 </Reference>
 <Reference URI="images%2Ftizen_32.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -20,11 +28,11 @@
 </Reference>
 <Reference URI="index.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>CeT+3HUdVBGcH7WfGAvILFtBTBdJgdqKxrZPXVJfOac=</DigestValue>
+<DigestValue>lVVYM0pu7QN7XpaZqwxvo/8BdeTVxgAyH3fVIdwhPzc=</DigestValue>
 </Reference>
 <Reference URI="js%2Fmain.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>cE38f6znEOAxsFh6CzyhzBFP8/lIcpUxmlSC6GtryaM=</DigestValue>
+<DigestValue>MY0K5YJdrYwyGoyWGxICxvinZSpKZgt/X0nfpYmFjJo=</DigestValue>
 </Reference>
 <Reference URI="lib%2Fflot%2F.gitignore">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -1167,11 +1175,11 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-WGH7VhlZr0GZsB3lSrbAO0aLOUl/yYZ9glCs1TK/VAsMCHQQ6RMCzYyN4QMFY8fhviRNDMXlKV3X
-r41laXfHgnkAFpRLX0SpZhVMKW7JXY4STKQoGXEIwm+nW8Zy+ngTWds0aX3bHjdgBE0sWIn2zIKc
-sIlbUaLA+xtICVSu8TtAqAUPjEyT0hhqszXeFUWiCUlXX1hJEcpL+Eg78Qp2zkTXIgbks8p75eFZ
-69DXiF3+Y1NaUlSTw7t03V2pMvHAJVJ1w+2pTf55CiTnl4ZCHnHHBYrtGYttmMdiP8O7jhGF7w/r
-+U7FH72YhXTVA9Wh0fZCHiiEQjd49Iqbv0KJ3Q==
+kF3VuBOf1oWmS0YTAff5zpJzi/CLNmUpecsCVjIdx0QA/51qWt9c479GDCZRVlE3NmM9O3keGEoz
+esgrs7TJwpcAxdZvKMv8sgySDIBdX+Fh7zl7msU6ZIi5+P0IUfZvetBewx9ICuTJTtW1lT3CdDYJ
+wFmi9URgVYdB8XjWHmMHA4SiX6m6lOKAtz3tfeyjuOX38zMn3NMI+jIjdHRU0u4RPjXl+q5Hr6FR
+R8YXKSM3Yaya6uitxNLA5IE9o8dI5G5wQXKoAYupIrcxXa4syEChwZy5x7HH+SWUwM+CNRxuNTEo
+HwUo6+GDvNfopMgpJuEOlcwKPfuLRb6d71uDxQ==
 </SignatureValue>
 <KeyInfo>
 <X509Data>
