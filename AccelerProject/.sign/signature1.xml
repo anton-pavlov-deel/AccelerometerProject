@@ -1,0 +1,1223 @@
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="DistributorSignature">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+<SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
+<Reference URI="author-signature.xml">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UmGdbbMQotyjb7uBAqBDPemruFpshwQwvGjEo1qd66E=</DigestValue>
+</Reference>
+<Reference URI="config.xml">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>x8dt7zg14XqtCsSpNBcsQdS0H/44RAGwPeaYEFUAEVA=</DigestValue>
+</Reference>
+<Reference URI="css%2Fstyle.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Yc5/Km/O7fXXLzDC0Xc34K+k00+3OFIEkRFZXNT7pAI=</DigestValue>
+</Reference>
+<Reference URI="icon.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1d0oEZHqPn+QzNzGIHwj9ODby6x9ggFs9uOsav6jPNs=</DigestValue>
+</Reference>
+<Reference URI="images%2Ftizen_32.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>eDr9ZPFlGlapLDnI1BiALwqovNdBvx3Aspc/lWOH3WI=</DigestValue>
+</Reference>
+<Reference URI="index.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>CeT+3HUdVBGcH7WfGAvILFtBTBdJgdqKxrZPXVJfOac=</DigestValue>
+</Reference>
+<Reference URI="js%2Fmain.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>cE38f6znEOAxsFh6CzyhzBFP8/lIcpUxmlSC6GtryaM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2F.gitignore">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rYAvDHy/Bm1gptVtGKb2vKq5+rUECx6bHyS+v4g06Vc=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2F.travis.yml">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>p0oKMgqphgZ+NQcjBRTMM6rrAy1zUSpY3qcWk8Wb2oI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2FAPI.md">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>72dZn13BDmlKiq6sIYt6dpzFU93JTuQnaoDQSFvIhG0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2FCONTRIBUTING.md">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pXTeSOufJ7okSkzMVUP4PLDNECaH+Jn/FnlLh4ohCHE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2FFAQ.md">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bK2L4xuI8h6Nvvq9bYnqUdghXXlpQQLp6nu/e73Y1Dg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2FLICENSE.txt">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UstWaxbYQxS5K5E2HtBy6q8Wbo09+j0P01d2E5JfIFw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2FMakefile">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5nn1r6zbL9ILqH/V/9FpYHUkWbELO0pvYII0jZoOlaw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2FNEWS.md">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hNRfnrh9dGz0ilDLAfIdgAe8U7cfP3S/bmxvTRera9Q=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2FPLUGINS.md">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ra6QjLlUU8N5PcuRJ940hvp9S5sAGxk1yeaXOfZKJtM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2FREADME.md">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zmHKfHVYAzPyOA5goyzQ3CFle9jG0KCB9A3jorgYqH0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fcomponent.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>L/PCBMj5YnsgLDhaEPjjTRelQZMvbDMrPJz5fQ12Q7E=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fajax%2Fdata-eu-gdp-growth-1.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>fXNK8X29MmSgUZuHDJqhTuICKcXxhi2EAz/pp+/rOTs=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fajax%2Fdata-eu-gdp-growth-2.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YoQyfY+KgYq6w11an1thXhL2mXOlbaXpQuMigRcgbUA=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fajax%2Fdata-eu-gdp-growth-3.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2M2pLColWycqCtV3HGF/MBXtjSW19I49CU3UMyqzW7s=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fajax%2Fdata-eu-gdp-growth-4.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>CPHjLG3vLMXJHq1rp+uYTqNXhiruzxIghDzdeBQsWrI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fajax%2Fdata-eu-gdp-growth-5.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+mv+dOlNrI5hv+2GKF0jW47FgiRII+cXR6+1mAbnPuE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fajax%2Fdata-eu-gdp-growth.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+mv+dOlNrI5hv+2GKF0jW47FgiRII+cXR6+1mAbnPuE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fajax%2Fdata-japan-gdp-growth.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>buJI+6hUoBQsHqMsERsTWuNruiWIouI2YIynay7ekzE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fajax%2Fdata-usa-gdp-growth.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iL7BJcJhhT7Ne1OUSkebVXfuKB4z8J4jhicpsfgU9QE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fajax%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VTtuVnOxHIVG8IwArBeYC/XQOhuGAe3OF+hhRQB4Rp8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fannotating%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8sZdySN4GtA+xjbnUen/5ie+NyhK9VRUXqPld0DX6gY=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Faxes-interacting%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>i/m/hR91C8qdArouqtCuvcf256+mkTOa6JwNmCuF/2c=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Faxes-multiple%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ZCSAL67SkLGqEHzwoLlRugETcb9PBoDtyQ2GaoRJFfU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Faxes-time-zones%2Fdate.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>OAKApUomQ9eXi+IC7kbKg1/K52bXfbdAH+XUbYBWcqs=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Faxes-time-zones%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3fsz/CEB57LBRsyk2pbyJlYUNLLZ25VBX5K4sypaP2E=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Faxes-time-zones%2Ftz%2Fafrica">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>i/XJBmDUDq47WIKq4MoMGActw3KDNdFcJH7oCZyPwlQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Faxes-time-zones%2Ftz%2Fantarctica">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>eYMx83OFmfaqpq6BPzl60caL8kHKGltVF+aLIbt7wAQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Faxes-time-zones%2Ftz%2Fasia">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>s/A7ELRsZwVUqAOlwI76oeix+J+g5CyDmj6Cs6jOnVY=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Faxes-time-zones%2Ftz%2Faustralasia">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0C/Na1FJP0i0zL/3VZee+4YD8RkUOt/e80ragt4CrOc=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Faxes-time-zones%2Ftz%2Fbackward">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>od4zAaZG5qGvCHKV7dGwPNgEvkb8Qe+DPyX4MHmFUqM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Faxes-time-zones%2Ftz%2Fetcetera">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hELXBcL8S4juEiKpzh8pPmEcMzZwL9NFYXloBWKziYw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Faxes-time-zones%2Ftz%2Feurope">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>D9THCT1gmmnnb2v7g8tVom9wh0HjTFYwSyjMpcYWur4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Faxes-time-zones%2Ftz%2Ffactory">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/r/B9QVqvEw/yHVTjKA4gdnP2Hw0bO9MN5deDXxnNvs=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Faxes-time-zones%2Ftz%2Fiso3166.tab">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>OQg5pqvTMv6VOUlJZ7amsq5+pUN5Bqe26Vv24CIAanA=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Faxes-time-zones%2Ftz%2Fleapseconds">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>29EJsUcvbq4LcYtgrG4hScr0n27bo4m0k/fgQ8EJGEU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Faxes-time-zones%2Ftz%2Fnorthamerica">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>9Yyp+JSZyKoEmA2rTf2VoqjqgoDB4RdOH8I8hIFye6Y=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Faxes-time-zones%2Ftz%2Fpacificnew">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>9BWmyF9bZ9rHUEtT6qXMAk92pQB29iOmQitMk3OwGNk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Faxes-time-zones%2Ftz%2Fsolar87">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>C+hKzihRRb2Wf4BL+beQ1ioG+mHtS3J/n9P0ux6lb3Y=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Faxes-time-zones%2Ftz%2Fsolar88">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>R12jvCeIZUvDy5csICqPcYYqePWwLYKGqZfIVzzFDf8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Faxes-time-zones%2Ftz%2Fsolar89">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/MAeJ3CUKIJL+WUQnYIWD3J9gPvAd7cpcZUYei8VQ1s=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Faxes-time-zones%2Ftz%2Fsouthamerica">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kDdDmHV/Uh/w5GJ743EhzotrkLI38Gor4yahjKOLx2c=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Faxes-time-zones%2Ftz%2Fsystemv">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>yROXJpoNP6m9+J87aVgeRNLg5bnhGKPfBp+zQVAke/E=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Faxes-time-zones%2Ftz%2Fyearistype.sh">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GVUrCfpbn5NSLOpJx2L9rKFgmWf29w2nlz/M6sPS9OM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Faxes-time-zones%2Ftz%2Fzone.tab">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>G6Wqyj8lf6zx5hNO4+9vKENf5Ma0K9mhsJEwMJS+sJM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Faxes-time%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ayPSx2vzookI0WPHPIAzr4jkM8ZU5ocMzmjxkTnPnhA=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fbackground.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UalrPj1YwIzMh/t9ekGVSALF6KEVWf/seSCSVCaKcss=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fbasic-options%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bmZMGr2dFwHN5lJ+hBk5kbkE7+SJ3PH8kvbloK9esao=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fbasic-usage%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>WGun++15UAlvBs04FzgoEz8lvF9qm/tmpIWnF0aZqpc=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fcanvas%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nLhuTnGpXxkimJg5Cghr5ujBbT7N1J6EKez/3FdIxS0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fcategories%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4IHfHoNxVy/ww3qBPIO+7VqFz89x2DeiPdbeI0Fdf6E=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fexamples.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>moMS6NtJNlEt+yM5J7O0l/KI6gbr1pCqRepBRuLYXfw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fimage%2Fhs-2004-27-a-large-web.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Qa6e/nlNxYKJX/8RorR3STnGphcp26juQNTddOCWyyU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fimage%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GQNyIFQqYMD+7mMfkqPBcSM1L6qjJNLGXQyjAG7ptW0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rG+1iIglM7OYMrStmJSzAMLCOy+WYY/sCwoP2I7hat4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Finteracting%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qPjW3LR6YwiZqS2fxmv9m3mwAixXZLl97szXlBnfPiY=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fnavigate%2Farrow-down.gif">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LSMiu6py36Xbz/x14xP+N0HhGcy2yS03WkEbGWvMQhI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fnavigate%2Farrow-left.gif">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2tTl7yq61UEd/lXul8IiF//7aEoyMFLbktFp4wPHbJQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fnavigate%2Farrow-right.gif">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UroMpGfXtejBKCgZ2EO5rvvowLMzY9arhlaGjL0kwxc=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fnavigate%2Farrow-up.gif">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>36+TjlPYn9pBEWgbfU/tiA77IEkFfecogzN3kqwfqS8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fnavigate%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>o8Rb0xG5S5LaJYQFTSy1umfz0brKLtKB0YZGe/X3Ji8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fpercentiles%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>BYq2x/snTiFmA3K2e5jrhjpmVxtlK8WZwtE9LH3YpdQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Frealtime%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Ly6AG+rbUVVAMgN70CY9Df+/867+mitTxwbVEjIXw00=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fresize%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1rpufxI525MeJ2duZHOZqzmOvDzDesQcY9/6eM5MRj4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fselection%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>C3CLc4qPENeNCOiQY1fpMhYj79dWgmrhxg7EJtdLkuA=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fseries-errorbars%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>avFmcEEtgFYKQd75/INs3NkEFQCItZ09y/vfT6bsfpc=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fseries-pie%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>JfoVrzrgJUPIGeMf0nM3TCpvHWtu34Dchw1xRNptHRE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fseries-toggle%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VctDpzscL0+mLJbvqplM8fEC12dP1WG6v3l+7do9jmI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fseries-types%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>e1M/bSaqTkBnO9LakI9H6ES3JOZa8DFKebIFFB4FSAY=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fshared%2Fjquery-ui%2Fjquery-ui.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/bmqguVs7l2GDmXt2jZ8uRwKDp0FLAIcb6rORDP2WPA=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fshared%2Fjquery-ui%2Fjquery-ui.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>E6zikx3K74t9YzNSOzEPw6SWFIhNuh+tjIRkPIN+KzQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fstacking%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2dBUshcKFcUlYtSiMkmQfm0+gnlYOcYaWdvNPoGmh4I=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fsymbols%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3bvl/QQjgBJGE8zKJcUbX9GCLnY++pqm7H5yL5VTutc=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fthreshold%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>vqiZ5KlZdmOL+XE5M5AhVzmGGzZfSeWxyB5i3X7QzXw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Ftracking%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>tRYUo3iSMrIc1MGD3oSZUHfUNaJQ7ugjrF7pPBoTTsU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fvisitors%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>x9195rgYchxRbBHxNRdVi1nPA/a1flFa8yrhV37fzRQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexamples%2Fzooming%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>IWMvvQfcEkVMOqbM6qh7UdP3QLO/g2dSSftnDgz25Os=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexcanvas.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>OHPYC42T+UItVaEMqbckEd5l9T2XBdkCAlRTiYtUkYA=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fexcanvas.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YgHbvZvrlNiiQaDevyzC5u/AfsafTR8RaYTiG0We5Wk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fflot.jquery.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lBArrhw2SJpQlxrQHT5R8zBcaRcgFpUP3Z+R84HQ5Ro=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fjquery.colorhelpers.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>CdpclO3CbF0Jc0NEfsVrsx9hjZ1HanZSAi8bCiJkPeg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fjquery.flot.canvas.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>mTHUpH3yGB4kOQC51JVul/r4yVT3376j/9xYDliYsKE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fjquery.flot.categories.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>boFmSyjqeVxzSQb0qhVhRkCnWsf705mn+5CEBAaYNRo=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fjquery.flot.crosshair.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>XBn95CfPBuZkTDVrnf3FzFTasdQ15oQjZSL1ZGlK50k=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fjquery.flot.errorbars.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>fE/Dyxn4FI/ZgKE2F+uXMK/+sG231U5n6+DrK8unQQE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fjquery.flot.fillbetween.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>o+RfUvtcPyuF6iD5oOSG1Taz1rvEEXDrZ89s2HzhoOE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fjquery.flot.image.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0iWejr/4qZkBCh3GBvudchJ13WY6JH2+5wz4LvHxHQs=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fjquery.flot.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>t7kx8nPDixJ3ucbB9OBcTsCYhaSHvdrzJ54tfkmjjhI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fjquery.flot.navigate.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NQ6/wGde6G8FGkwwUZOhV19oEWm2nui9SMjzrhVmgW0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fjquery.flot.pie.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>RsEWYd9gdLG1bCIcU8j59Rkvf/1O7HtzoD1TRUs22cU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fjquery.flot.resize.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>i59RRvMkqw+28mDu6YRzKo77gmM7k9aPZMtcw45wgu4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fjquery.flot.selection.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5shfbB6+S02inYriOMfFBgKD8F9+8FT2uRgX0CwJKRg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fjquery.flot.stack.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>gRm10Sf18onxwOSIySMzR9kjmjQK1ejfhrDWdercOfU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fjquery.flot.symbol.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ZzE+eB/4Q6HDo5BKr+PT1GsVj/KODLBLswxSp+HR3yc=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fjquery.flot.threshold.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>DVlQu3pyVg7nXzn7jancgh3rx+oZ4Fi5yt6fozt11o0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fjquery.flot.time.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pYLIMq3HE4prBar2HxbrrCdHAfG+Sv6nfnOaHDS5xBo=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fjquery.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dW19+sSjW7V1Q/Z3KD1saC6NcE5TUIhLJzJbrdKzxKc=</DigestValue>
+</Reference>
+<Reference URI="lib%2Fflot%2Fpackage.json">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/a55waRQJB/mzuBL5ZwrPQYcuJsSrAvCrzBYHJt802M=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2FLICENSE.Flora">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>R4988xI3tkQMAcLGLOROY5Wp8YTDrI0X90uMvrydtQw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2FVERSION">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>FllA+AGDvi3c6DoZaLTpyhnMJr4mkSByiz30PQhalY4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Fjs%2Fjquery.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0u0HIBCKddsNUySLqONjMmWAZMQYlxTRbA8RfvtCAW0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Fjs%2Fjquery.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>h0cGsrExGgcZtSZ/fRz4AwV+Nn6Urh/3v3jFRQ0w9dQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Fjs%2Ftau.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>hGJGuRTP34jg/PLypduLxodDbeTP/KDs7TA98WKfh5Y=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Fjs%2Ftau.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7vzF31qRekD6j0cos0HDtSf25juQNktqCc5+hgGblYU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Fjs%2Ftau.support-2.3.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>orrHCQbTlcg2CejlMVjRIcpq5i5CUZY/9WDRzzO0WcI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Fjs%2Ftau.support-2.3.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>nI7A+HMhfKEKtnK4NBtsiZYIhmpU0rs3YCbpjD++2Tc=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2F00_button_radio_activated.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>HBWDnvZfjnVKu2iprqbJ1ubBoDeigQjrPmDFV+Z0d1M=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2F00_check_activated.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>leeuQROaB46ZxOyplJv0wyXpmJ7WLTqhAmm3W4PE2o0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2F00_circle_button_bg.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>DCmQ8M0RjQs5Ht6kUAH8QYSA+Sc67cM0Hyaqo7glQLI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2F00_grid_overscrolling_bottom.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pp07USBa8wvzHxcskMyMy3wYWsiVcnrezbF/BuLz9vE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2F00_grid_overscrolling_left.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kSa5H7s8JbnsszOlBlu0Tm11zZRFT0MdCmPbVLjxQ2Y=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2F00_grid_overscrolling_right.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>V+tFY+OazC6MR6x4e8Jyu4u8abtZbFcxsH3bgvR6SDg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2F00_grid_overscrolling_top.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>c0g7WRnhEivdVKsaOkUNr9z8vZb0reQkrWNERA0/EE8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2F00_icon_favorite_bg.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>cgkGzWoZSbhmBozVW0CYVtg9hIWU55qm5HL7ClBTso0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2F00_list_process_01.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lk02kruXqw3fJd+e01JXeS1FT7/uCDI+CVz/rKoX8E0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2F00_navigation_bar_bg.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Uidbe3aSJjwJa8VCLXRM6pw/IcxEpaZoUkFtOMfL5fM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2F00_navigation_bar_icon_arrow.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TxbaiXcTSER3/EV+Rqy7B1nWo5N7BI08b+FLOIWI2X0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2F00_page_empty_bg.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7N1qPUoEipTy54zEcYzw3+/X/Ev7TywCQeT8c+4dGW8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2F00_page_empty_bg_h.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>BYZ+GYtcTvufRLNBd0cihK3H+5fb1H/ICZOMg6mpVJM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2F00_scroll_bar_handler_h_01.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rFc7GCDigfjfphPxUoX0ud9I9LuWxjwSm2LXGZLbM00=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2F00_scroll_bar_handler_h_02.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>tWJY/dqsXXgHvJ+a6Z49iSiMKtfY0U7y4vLB3fN/su4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2F00_scroll_bar_handler_v_01.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+++GyRJVfUwiGQwliq+Z44lolxXg4aH2615PgYwePpg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2F00_scroll_bar_handler_v_02.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>e1iWVzZm+08CIbBYoSQZbXcpfMzynk1pA3ZJmhoH7rU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2F00_splite_handler_h.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zg3UaBPG4owK3Pvfh1u66upBXCDgj9NEEo/EvwZU72A=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2F00_splite_handler_v.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>p1EnEzz1OXHwBNjHhbQ4+zudcTRa+Mb4lZzYMyEpku4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2F00_core_button_icon_clear.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>IzxnKGmntKSvogW2bkTKLF4o0HyXGdLno1uVD+8c+Z0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2F00_field_btn_clear.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>G4NLUfENPggs/YfbmL5uxJCW6l69hGjdH1u+CLiNflo=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2F00_icon_favorite_bg_72x72.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>cgkGzWoZSbhmBozVW0CYVtg9hIWU55qm5HL7ClBTso0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2F00_icon_jump.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>RYwP+dAPyNW/WZVH2JKWVGGIc99S2J3hTrDG1d5WVIM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2F00_icon_jump_left.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>uozHyLOhGc5jpxak9rZlP94wm5wBXFgc8Z5n6pJTBfo=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2F00_icon_search.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0hwvo8sfri1c1caCUyTu2gHbGKJWW+tGLdfs2iNraFo=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2F00_on_off_handler_bg.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Rv9hiBuzT4+0QDoTxP+p/JKbhgfyHuhYSh0g96LXh0c=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2F00_on_off_handler_bg_ef.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Yo9npVezh1NuAYYzXKCJHTmpEvJ/xo/P6TDySOPv6EQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2F00_on_off_handler_icon_off.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ZzN4K0CwWxmdmk+/xQ3UGSukj30qyAgJlOa9ntRydns=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2F00_on_off_handler_icon_off_ef.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>L8/oFc6lnX6KMjhvm78aRVnxqyivOg8RKq0hGP14zfY=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2F00_on_off_handler_icon_on.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>x2MOsIOrN0XS9zGlebbAYoIHS2Driegb1fpVAQVkq6w=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2F00_on_off_handler_icon_on_ef.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8p5Uu1wVNyiO4KjOOznS95I+aMhMLnivHUOwilcwkvQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2F00_slider_button_brightness_01.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lnB1hVNe8j5BGwlxmFkrGTbP4Wj7KCQfoGoYZPLSzbk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2F00_slider_button_brightness_02.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PLvjLuVz8Kb8bmhNlQnT1TXf9Z9Nw0J37rfFmDvQe1o=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2F00_slider_button_volume_01.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>IC8IfqgQFn1jY4U1L9nqUNBC9iUYoU0x40g97tdLP+M=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2F00_slider_button_volume_02.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>fl0077LrS/ojhWAwWe39a/sOdPbowToiqRV0Gz1f5z0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2F00_slider_center_point_bg.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2CDQn9PhQw1gJufK2vpS4kiMK+AMLrqVV726ixX2+bw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2F00_slider_handle.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>msMbKQTKs+FvEuTFt1ySDkUPHaXdR7kmAkHojOcyV7I=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2F00_slider_handle_press.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>FqTAu4VkNIRobTUjZ/ocgQHPvA65uR/yubP/Ig/ejNo=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2Fcore_button_icon_clear.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>A/TJ24gFM5eWz9VZFY0AEyW3OIU9UYUvs0w9LNJ8TOw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2Fcore_check_icon.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>KoRjOprlV8TLA5Jf0ckhCRHx+ySGX55xHSNGbh8lqcg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2Fcore_check_icon.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Y0ZPCMQ7lV15q2SOMnIkXxf2iRIYw/TVfFpi4in8TzU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2Fcore_floating_button_bg.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>vw/0kMvtssxcARjyFaoTQ+Y2zUJ79KD3aglCuczAnx0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2Fcore_floating_icon_add.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>mYnkdwSLROPeT/XcO0miEa+qr2ezQ8Cq2IdB/MLRGU4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2Fcore_floating_icon_search.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>CxiRjdTnu+cPuDgCWPwRjALTI0bmUow2KWlLpfKMNBk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2Fcore_icon_container.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3J4IBUXoKJLxKMfFDLrjKykDXBWsxXOi7hP76hWz8tA=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2Fcore_icon_favorite_off_ef.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>FnffD2RCIbH1aNr6DmrEsbzRdnGFx3qIFQTHP1ty7P0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2Fcore_icon_favorite_on.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GDCuFIhWClAArkNM8UoIkXFTM7l+R9xhscEmn4JkU44=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2Fcore_index_scroll_handler_h_01.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qzIE3YSeYIJjmXaITgoxTGUPCH1Vpibf21TKvYBItDI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2Fcore_index_scroll_handler_h_02.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>QT0jIPGqqXruyUwz/DfjnViVvpqQt5ks+wKdeTjzIvE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2Fcore_index_scroll_handler_v_01.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>sLai5TD5dpC0DHUONyNzCvmeJO/io27gfwULOl4vHWs=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2Fcore_index_scroll_handler_v_02.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LcqKjVPkOsZn0YoMf0x7G0y0c+S6yXw11oK1PuX34z0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2Fcore_progress_pending_bg.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>KYEoY0JFAnmvpyrMAyAvszS4XpocenazbCQxKus+Zg0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2Fcore_radio_icon.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>w/3/JGKGusiVV58EpPhoQAedVGndvPWBOuuJeVtLAX4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2Fcore_slider_handle_normal.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>vpaDsngIUsC4EFQ7ghs73P2O1BlSiHuVqsr1yRHIFZ0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2Fcore_slider_handle_press.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8Cq74ZcSc3QSRBQFpvqC+1ornVK01hpPJHGsmateeVQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2Fcore_slider_handle_press_expand.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>QcV+3TG6Twl0Ydarbk3MCDokj3gFUbOW1rqMw59+vpM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2Fcore_slider_popup_bg.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>sX3ixddu1L7SuMyOrtNbUTnPPIE/nfqzsrYY27Vw1DI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2Fcore_slider_popup_bg_stroke.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>k+RwnPDuAD8RpFePiZ1z5Ho8uveaS0OMjLZiHb2mVJg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2Fcore_toggle_bg_gray.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LfE1bqyIgF62Tm3IEbf0Hxfjfxjc8FDQq39KTh3R1qE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2Fcore_toggle_bg_green.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5vu7oiEe3BB0bktOyk617Bxcm5wNoKEbG61hFSgDVJg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2Fcore_toggle_icon_off.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>e7eGbE65YTkg8ocbvMc5KiwzstEjsdLeachjc9qJJOA=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcontrols%2Fcore_toggle_icon_on.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>58BX2CacRJiYHcs4dLu3prBJTWShkCsCHXWQ9KApFBE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcore_button_icon_clear.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>A/TJ24gFM5eWz9VZFY0AEyW3OIU9UYUvs0w9LNJ8TOw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcore_dropdown_label_icon_arrow.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zjR1wtPPAwRbyxbv//ke0CICaQzKlEKzD6YxxUVX6b4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fcore_icon_expand_open.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>tBixjttIXfanmUvxmDRq2ezNK/KfDbRq/aYSQ3OXR2w=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fnine-patch%2F00_messagebubble_bg_receive_bg.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/LWCaRtA9bLKWAMreR6yB3oMcKBs3/vhC+OuiP3l26U=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fnine-patch%2F00_messagebubble_bg_sent_bg.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>AtuN9lgLtEPu/UsB765scKruCLGYyu5CNbAjGxP5Djw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fnine-patch%2Fcore_button_bg.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>D5N1JkhwSuVu4qc4WM18q+I/jFqZCgHPgCHL9QoSCFU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fnine-patch%2Fcore_popup_noti_bg.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>FUwtqsII77ReFciZ+MTYQq1rSnZFT2Zy/Qhn1nuhoTg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fnine-patch%2Fcore_popup_noti_bg_stroke.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ROOZR93xoY1Oo6XcVIeXa2w/76UkAeGxc7E/R92eqpQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fpage%2F00_icon_delete.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>o34+2QnTGpMCoLKSkL5w/8hFR5eEwU5y5siVzGjeag8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fpage%2F00_icon_edit.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PfxrVBqv29YaAypSBERz6PVx6WN0wyQE/ud1j9Cr9qg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fpage%2F00_icon_plus.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>u3rS1Zgy6QfV3enFM+S9F4LRxiH8tOVrYfE0N5lDBuE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fpage%2F00_icon_search.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iLojzb30vodS7s1FojxN0AVmYVuHIHwNYOAsfld68Fk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fpage%2F00_icon_select_all.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>uo6TFwkNoSDcv4UHLE1/8Fpp9imt/EsYvp+EaGKExaw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fpage%2Fcore_icon_drawer.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>O+kqXQTHTlxC6e9adwNDhPjTM3azJMxaTLi6mGYmMfA=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fpage%2Fcore_theme_bg_01.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>uaCm3ToHnVbkcYhS0SySFEM6g4GFeqgD3ynHljTlTpU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fpopup%2Fcore_theme_bg_dim.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Hy3YWSdOGXPeHoXU9PpZ7474RGzF7SpkGXJElwgH49M=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Fimages%2Fpopup%2Fcore_theme_bg_dim_l.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bZTCIIKc8GDkUeGpkffsvFJU+HrnfcnatBB3YkwJqFA=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Ftau.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>m6dXrDPoSF2n45GwDdS0dXZYE+7VB7dzqnsTZLknj64=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Ftau.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>DUr1NQX+AdBDuiekOzP3DOBDrM0i40QsI3bltJsG2Ag=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Ftau.min.template">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>SbBaV6P+uM0scLXEdUzbhDdnc3BN8huaDKWxElDyprQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Ftau.support-2.3.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NtmSO8WY+89kunc4VxlP8uGtmdl/pGWk4oaFW1bQnnI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Ftau.support-2.3.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2xwX59sLr85S0jMkv/ovR0xQ567/bHynhaMNWGItX5w=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Ftau.support-2.3.min.template">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wqSQkP40x5kKXC4/AV9o72C9TgSzcv4AKfsa7sEwX0E=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Ftau.support-2.3.template">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>y2hyxtTU0P1NWPjdrqHJorqmZCuB5OE1WXGV5Vc0Ie4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Ftau.template">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>CXxJ9mkg6Uf6qGPS9Kp6TJE+Dn2W+oSR+/Y9ZckgjH0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Ftheme.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>aNZtpUArjN9hVFK2UODcVp+5c8SU8CuZsqL0ekosf5A=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fchangeable%2Ftheme.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>IpLU+Mb1c63YvBGZWU3+8zcx7kVp3y5gE4iRP2Jt9Y4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2F00_button_radio_activated.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>HBWDnvZfjnVKu2iprqbJ1ubBoDeigQjrPmDFV+Z0d1M=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2F00_check_activated.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>leeuQROaB46ZxOyplJv0wyXpmJ7WLTqhAmm3W4PE2o0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2F00_circle_button_bg.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>DCmQ8M0RjQs5Ht6kUAH8QYSA+Sc67cM0Hyaqo7glQLI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2F00_grid_overscrolling_bottom.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pp07USBa8wvzHxcskMyMy3wYWsiVcnrezbF/BuLz9vE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2F00_grid_overscrolling_left.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kSa5H7s8JbnsszOlBlu0Tm11zZRFT0MdCmPbVLjxQ2Y=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2F00_grid_overscrolling_right.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>V+tFY+OazC6MR6x4e8Jyu4u8abtZbFcxsH3bgvR6SDg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2F00_grid_overscrolling_top.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>c0g7WRnhEivdVKsaOkUNr9z8vZb0reQkrWNERA0/EE8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2F00_icon_favorite_bg.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>cgkGzWoZSbhmBozVW0CYVtg9hIWU55qm5HL7ClBTso0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2F00_list_process_01.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lk02kruXqw3fJd+e01JXeS1FT7/uCDI+CVz/rKoX8E0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2F00_navigation_bar_bg.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Uidbe3aSJjwJa8VCLXRM6pw/IcxEpaZoUkFtOMfL5fM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2F00_navigation_bar_icon_arrow.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TxbaiXcTSER3/EV+Rqy7B1nWo5N7BI08b+FLOIWI2X0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2F00_page_empty_bg.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7N1qPUoEipTy54zEcYzw3+/X/Ev7TywCQeT8c+4dGW8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2F00_page_empty_bg_h.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>BYZ+GYtcTvufRLNBd0cihK3H+5fb1H/ICZOMg6mpVJM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2F00_scroll_bar_handler_h_01.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rFc7GCDigfjfphPxUoX0ud9I9LuWxjwSm2LXGZLbM00=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2F00_scroll_bar_handler_h_02.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>tWJY/dqsXXgHvJ+a6Z49iSiMKtfY0U7y4vLB3fN/su4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2F00_scroll_bar_handler_v_01.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+++GyRJVfUwiGQwliq+Z44lolxXg4aH2615PgYwePpg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2F00_scroll_bar_handler_v_02.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>e1iWVzZm+08CIbBYoSQZbXcpfMzynk1pA3ZJmhoH7rU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2F00_splite_handler_h.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zg3UaBPG4owK3Pvfh1u66upBXCDgj9NEEo/EvwZU72A=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2F00_splite_handler_v.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>p1EnEzz1OXHwBNjHhbQ4+zudcTRa+Mb4lZzYMyEpku4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2F00_core_button_icon_clear.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>IzxnKGmntKSvogW2bkTKLF4o0HyXGdLno1uVD+8c+Z0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2F00_field_btn_clear.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>G4NLUfENPggs/YfbmL5uxJCW6l69hGjdH1u+CLiNflo=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2F00_icon_favorite_bg_72x72.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>cgkGzWoZSbhmBozVW0CYVtg9hIWU55qm5HL7ClBTso0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2F00_icon_jump.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>RYwP+dAPyNW/WZVH2JKWVGGIc99S2J3hTrDG1d5WVIM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2F00_icon_jump_left.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>uozHyLOhGc5jpxak9rZlP94wm5wBXFgc8Z5n6pJTBfo=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2F00_icon_search.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0hwvo8sfri1c1caCUyTu2gHbGKJWW+tGLdfs2iNraFo=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2F00_on_off_handler_bg.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Rv9hiBuzT4+0QDoTxP+p/JKbhgfyHuhYSh0g96LXh0c=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2F00_on_off_handler_bg_ef.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Yo9npVezh1NuAYYzXKCJHTmpEvJ/xo/P6TDySOPv6EQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2F00_on_off_handler_icon_off.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ZzN4K0CwWxmdmk+/xQ3UGSukj30qyAgJlOa9ntRydns=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2F00_on_off_handler_icon_off_ef.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>L8/oFc6lnX6KMjhvm78aRVnxqyivOg8RKq0hGP14zfY=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2F00_on_off_handler_icon_on.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>x2MOsIOrN0XS9zGlebbAYoIHS2Driegb1fpVAQVkq6w=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2F00_on_off_handler_icon_on_ef.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8p5Uu1wVNyiO4KjOOznS95I+aMhMLnivHUOwilcwkvQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2F00_slider_button_brightness_01.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lnB1hVNe8j5BGwlxmFkrGTbP4Wj7KCQfoGoYZPLSzbk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2F00_slider_button_brightness_02.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PLvjLuVz8Kb8bmhNlQnT1TXf9Z9Nw0J37rfFmDvQe1o=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2F00_slider_button_volume_01.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>IC8IfqgQFn1jY4U1L9nqUNBC9iUYoU0x40g97tdLP+M=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2F00_slider_button_volume_02.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>fl0077LrS/ojhWAwWe39a/sOdPbowToiqRV0Gz1f5z0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2F00_slider_center_point_bg.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2CDQn9PhQw1gJufK2vpS4kiMK+AMLrqVV726ixX2+bw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2F00_slider_handle.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>msMbKQTKs+FvEuTFt1ySDkUPHaXdR7kmAkHojOcyV7I=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2F00_slider_handle_press.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>FqTAu4VkNIRobTUjZ/ocgQHPvA65uR/yubP/Ig/ejNo=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2Fcore_button_icon_clear.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>A/TJ24gFM5eWz9VZFY0AEyW3OIU9UYUvs0w9LNJ8TOw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2Fcore_check_icon.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>KoRjOprlV8TLA5Jf0ckhCRHx+ySGX55xHSNGbh8lqcg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2Fcore_check_icon.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Y0ZPCMQ7lV15q2SOMnIkXxf2iRIYw/TVfFpi4in8TzU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2Fcore_floating_button_bg.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>vw/0kMvtssxcARjyFaoTQ+Y2zUJ79KD3aglCuczAnx0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2Fcore_floating_icon_add.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>mYnkdwSLROPeT/XcO0miEa+qr2ezQ8Cq2IdB/MLRGU4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2Fcore_floating_icon_search.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>CxiRjdTnu+cPuDgCWPwRjALTI0bmUow2KWlLpfKMNBk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2Fcore_icon_container.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3J4IBUXoKJLxKMfFDLrjKykDXBWsxXOi7hP76hWz8tA=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2Fcore_icon_favorite_off_ef.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>FnffD2RCIbH1aNr6DmrEsbzRdnGFx3qIFQTHP1ty7P0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2Fcore_icon_favorite_on.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GDCuFIhWClAArkNM8UoIkXFTM7l+R9xhscEmn4JkU44=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2Fcore_index_scroll_handler_h_01.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qzIE3YSeYIJjmXaITgoxTGUPCH1Vpibf21TKvYBItDI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2Fcore_index_scroll_handler_h_02.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>QT0jIPGqqXruyUwz/DfjnViVvpqQt5ks+wKdeTjzIvE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2Fcore_index_scroll_handler_v_01.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>sLai5TD5dpC0DHUONyNzCvmeJO/io27gfwULOl4vHWs=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2Fcore_index_scroll_handler_v_02.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LcqKjVPkOsZn0YoMf0x7G0y0c+S6yXw11oK1PuX34z0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2Fcore_progress_pending_bg.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>KYEoY0JFAnmvpyrMAyAvszS4XpocenazbCQxKus+Zg0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2Fcore_radio_icon.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>w/3/JGKGusiVV58EpPhoQAedVGndvPWBOuuJeVtLAX4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2Fcore_slider_handle_normal.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>vpaDsngIUsC4EFQ7ghs73P2O1BlSiHuVqsr1yRHIFZ0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2Fcore_slider_handle_press.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8Cq74ZcSc3QSRBQFpvqC+1ornVK01hpPJHGsmateeVQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2Fcore_slider_handle_press_expand.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>QcV+3TG6Twl0Ydarbk3MCDokj3gFUbOW1rqMw59+vpM=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2Fcore_slider_popup_bg.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>sX3ixddu1L7SuMyOrtNbUTnPPIE/nfqzsrYY27Vw1DI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2Fcore_slider_popup_bg_stroke.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>k+RwnPDuAD8RpFePiZ1z5Ho8uveaS0OMjLZiHb2mVJg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2Fcore_toggle_bg_gray.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>LfE1bqyIgF62Tm3IEbf0Hxfjfxjc8FDQq39KTh3R1qE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2Fcore_toggle_bg_green.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5vu7oiEe3BB0bktOyk617Bxcm5wNoKEbG61hFSgDVJg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2Fcore_toggle_icon_off.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>e7eGbE65YTkg8ocbvMc5KiwzstEjsdLeachjc9qJJOA=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcontrols%2Fcore_toggle_icon_on.svg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>58BX2CacRJiYHcs4dLu3prBJTWShkCsCHXWQ9KApFBE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcore_button_icon_clear.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>A/TJ24gFM5eWz9VZFY0AEyW3OIU9UYUvs0w9LNJ8TOw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcore_dropdown_label_icon_arrow.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>zjR1wtPPAwRbyxbv//ke0CICaQzKlEKzD6YxxUVX6b4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fcore_icon_expand_open.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>tBixjttIXfanmUvxmDRq2ezNK/KfDbRq/aYSQ3OXR2w=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fnine-patch%2F00_messagebubble_bg_receive_bg.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/LWCaRtA9bLKWAMreR6yB3oMcKBs3/vhC+OuiP3l26U=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fnine-patch%2F00_messagebubble_bg_sent_bg.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>AtuN9lgLtEPu/UsB765scKruCLGYyu5CNbAjGxP5Djw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fnine-patch%2Fcore_button_bg.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>D5N1JkhwSuVu4qc4WM18q+I/jFqZCgHPgCHL9QoSCFU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fnine-patch%2Fcore_popup_noti_bg.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>FUwtqsII77ReFciZ+MTYQq1rSnZFT2Zy/Qhn1nuhoTg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fnine-patch%2Fcore_popup_noti_bg_stroke.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ROOZR93xoY1Oo6XcVIeXa2w/76UkAeGxc7E/R92eqpQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fpage%2F00_icon_delete.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>o34+2QnTGpMCoLKSkL5w/8hFR5eEwU5y5siVzGjeag8=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fpage%2F00_icon_edit.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PfxrVBqv29YaAypSBERz6PVx6WN0wyQE/ud1j9Cr9qg=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fpage%2F00_icon_plus.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>u3rS1Zgy6QfV3enFM+S9F4LRxiH8tOVrYfE0N5lDBuE=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fpage%2F00_icon_search.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iLojzb30vodS7s1FojxN0AVmYVuHIHwNYOAsfld68Fk=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fpage%2F00_icon_select_all.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>uo6TFwkNoSDcv4UHLE1/8Fpp9imt/EsYvp+EaGKExaw=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fpage%2Fcore_icon_drawer.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>O+kqXQTHTlxC6e9adwNDhPjTM3azJMxaTLi6mGYmMfA=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fpage%2Fcore_theme_bg_01.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>uaCm3ToHnVbkcYhS0SySFEM6g4GFeqgD3ynHljTlTpU=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fpopup%2Fcore_theme_bg_dim.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Hy3YWSdOGXPeHoXU9PpZ7474RGzF7SpkGXJElwgH49M=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Fimages%2Fpopup%2Fcore_theme_bg_dim_l.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>bZTCIIKc8GDkUeGpkffsvFJU+HrnfcnatBB3YkwJqFA=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Ftau.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>m6dXrDPoSF2n45GwDdS0dXZYE+7VB7dzqnsTZLknj64=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Ftau.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>DUr1NQX+AdBDuiekOzP3DOBDrM0i40QsI3bltJsG2Ag=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Ftau.min.template">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>SbBaV6P+uM0scLXEdUzbhDdnc3BN8huaDKWxElDyprQ=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Ftau.support-2.3.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NtmSO8WY+89kunc4VxlP8uGtmdl/pGWk4oaFW1bQnnI=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Ftau.support-2.3.min.css">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2xwX59sLr85S0jMkv/ovR0xQ567/bHynhaMNWGItX5w=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Ftau.support-2.3.min.template">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>wqSQkP40x5kKXC4/AV9o72C9TgSzcv4AKfsa7sEwX0E=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Ftau.support-2.3.template">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>y2hyxtTU0P1NWPjdrqHJorqmZCuB5OE1WXGV5Vc0Ie4=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Ftau.template">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>CXxJ9mkg6Uf6qGPS9Kp6TJE+Dn2W+oSR+/Y9ZckgjH0=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Ftheme.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>aNZtpUArjN9hVFK2UODcVp+5c8SU8CuZsqL0ekosf5A=</DigestValue>
+</Reference>
+<Reference URI="lib%2Ftau%2Fmobile%2Ftheme%2Fdefault%2Ftheme.min.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>IpLU+Mb1c63YvBGZWU3+8zcx7kVp3y5gE4iRP2Jt9Y4=</DigestValue>
+</Reference>
+<Reference URI="#prop">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2006/12/xml-c14n11"></Transform>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>u/jU3U4Zm5ihTMSjKGlGYbWzDfRkGphPPHx3gJIYEJ4=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+Vo0mgETyJwWPYIpO06taqs4hrjttCKKXgHaMQf4wc4yMoUC8pElrKnlWozBRFLGIbEVOmk5rCepW
+0bZnbtHzw5Y0ilRMe5ODAzL/JMOBvVKpZr64lLlUm8jQHwwf26xa26rUYeX3S0SKA56UQlmLj4c+
+U0jRcmwTobG6MZrnx4B0w/x7WlpofF2MLkyyte1lqbbZd2CrhUZQND7mu9PD5BOQe9C+CTSyKe/M
+Jg6qJi4hqzTKTszERCA9BwletkTFHGdV2UMS5RFrJeCYLHdwXx14oxHVdR/tzzGSWbJHBaNuakMe
+iXRXjDBTkyWcZFTrGKXhak/CXij/GXJXdvoXcw==
+</SignatureValue>
+<KeyInfo>
+<X509Data>
+<X509Certificate>
+MIIDpzCCAo+gAwIBAgIBZTANBgkqhkiG9w0BAQsFADCBnjELMAkGA1UEBhMCS1IxFDASBgNVBAgM
+C1NvdXRoIEtvcmVhMQ4wDAYDVQQHDAVTdXdvbjEmMCQGA1UECgwdU2Ftc3VuZyBFbGVjdHJvbmlj
+cyBDby4sIEx0ZC4xDzANBgNVBAsMBk1vYmlsZTEwMC4GA1UEAwwnU2Ftc3VuZyBUaXplbiBERVZF
+TE9QRVIgUHVibGljIENBIENsYXNzMB4XDTE3MTEyOTA3NDQ0MFoXDTE4MTEyOTA3NDQ0MFowczER
+MA8GA1UEAwwIVGl6ZW5TREsxCTAHBgNVBAsMADEJMAcGA1UECgwAMQkwBwYDVQQHDAAxCTAHBgNV
+BAgMADEJMAcGA1UEBhMAMScwJQYJKoZIhvcNAQkBFhhwYW50b24uYW50b245OEBnbWFpbC5jb20w
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCsn3TqiE8z5m+nwSfQpPABKghp/O5RgqbM
+bf74fSBNq05haL3K4Mr3wf0qXy1kKgHIHSOrHavW7jXWnrElGN/roU+fFtWHVLOQSDiPbq0OXKkL
+xL4XF3XibYhuWI3dUa70l0E52ed/15PMaUi+7buwfHmCsSxGT7GPyoVOtZUyyPKqFC3uJUjKUgwv
+mVjzmaezrM3A4duwGjzgSaAEEgVq3HKH2APMA4QYyOYe64YDSg4wT9ziOEM5R4hHwx5xZ/HooKxt
+wVc/onktGfxjj9hJSv9BtzXQKLuE+enwz8ezXdzAshJE6K11VYtVrlj25Sqg1jFMKAai6+NVHMP9
+ln7zAgMBAAGjGjAYMAkGA1UdEwQCMAAwCwYDVR0PBAQDAgeAMA0GCSqGSIb3DQEBCwUAA4IBAQCJ
+UbDsA5da+5xvMY2tyoAx0Jbdu5/focj+l/zt8L1K2nuOywJanOlVgblGq0DSgoH65l6rMUszH3VW
+vC1goL6cfnPnNtSnKRw7fXoQiwtmlJ07hw7ZBG72FGAWVxNBFfcfOx9fGRrYyZ5Z+XCmiIifvUSf
+F9iHBl3rxkKWT+Y+KsgUISMC/ck83Hw/sGLslZQOt9mhsKNcbbDa9pNtJxvuYgTXwa8NWxhNvduf
+2/pelcZhogkbAtKHf0PDQMrJonHhEdARXfeOZhA//8k2GstjvyiJYQzKAglPShjQc0KrBkhDVd5f
+fG27vHyfrjQtpUt1f3sFMlAsMTl364KhblrO
+</X509Certificate>
+<X509Certificate>
+MIIDuzCCAqOgAwIBAgICL+cwDQYJKoZIhvcNAQELBQAwgY8xCzAJBgNVBAYTAktSMRQwEgYDVQQI
+DAtTb3V0aCBLb3JlYTEOMAwGA1UEBwwFU3V3b24xJjAkBgNVBAoMHVNhbXN1bmcgRWxlY3Ryb25p
+Y3MgQ28uLCBMdGQuMTIwMAYDVQQDDClTYW1zdW5nIFRpemVuIERFVkVMT1BFUiBQdWJsaWMgUm9v
+dCBDbGFzczAeFw0xMzEyMzAxNTAxNDdaFw0yODEyMjYxNTAxNDdaMIGeMQswCQYDVQQGEwJLUjEU
+MBIGA1UECAwLU291dGggS29yZWExDjAMBgNVBAcMBVN1d29uMSYwJAYDVQQKDB1TYW1zdW5nIEVs
+ZWN0cm9uaWNzIENvLiwgTHRkLjEPMA0GA1UECwwGTW9iaWxlMTAwLgYDVQQDDCdTYW1zdW5nIFRp
+emVuIERFVkVMT1BFUiBQdWJsaWMgQ0EgQ2xhc3MwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQCkqW9d0zO5NFOc7u164DKe9Yx+yEgUnsbhnJasqHaqT71qaMxyCOjyysZi7gGycDcgmLcU
+tr2wSMTGWPibK8SrJ8bV/J1cy9nTpljM3s+lbPIVVxZeufhJkU79tXImHLolERd0vui+rj0Xpd9O
+zlyNTRt0+PWVT1taWcbfHL7pUD25hMkTc8C3bC+dUoT1/RhCkXgmUvIor3EnnU0rBtAl4qNtg5y1
+7RLT8dyicieAHCcW923YC/ngMZxnBjbL2Ht1RBUvrL6K3X5+l0VeF4qC3g7TKm/a/SGjq12ZD4sc
+7rglzjSNlTVSGag6/2WkqxE6HheEBWaloYOdauzwydFNAgMBAAGjEDAOMAwGA1UdEwQFMAMBAf8w
+DQYJKoZIhvcNAQELBQADggEBAG88wKjKeTbj5I6wMEvRihd+gWrESJX3bXUSlHWjUfYKcvg3GzM9
+cdooscqJdYgN8ezQuYiJQRk7BaPHSlPGkchsPUjvSM6WvIn9IT+VsEuVBrZNbZMSv6lM6wNig3TE
+h2OxFTW6Bt8mCZB74EP2wb+39Fr5aJwWvmkxQjct3/O+GYPQhe0Lu1qpbbMhzafYYybSmO+om02V
+cTWyJ/vtLUNyGfN7aHyBm6PFE5piAfpBaO9Az+zWil1HOsnzu1tGGnyV6IzQ/UiIo5P2sD8I5lEO
+Xdf9Eicy9y5z2Ci2zrmDcAGWL8o5wOWrCqML2ijximFzyQ/swlMC9xBIX9RCFws=
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+<Object Id="prop"><SignatureProperties xmlns:dsp="http://www.w3.org/2009/xmldsig-properties"><SignatureProperty Id="profile" Target="#DistributorSignature"><dsp:Profile URI="http://www.w3.org/ns/widgets-digsig#profile"></dsp:Profile></SignatureProperty><SignatureProperty Id="role" Target="#DistributorSignature"><dsp:Role URI="http://www.w3.org/ns/widgets-digsig#role-distributor"></dsp:Role></SignatureProperty><SignatureProperty Id="identifier" Target="#DistributorSignature"><dsp:Identifier></dsp:Identifier></SignatureProperty></SignatureProperties></Object>
+</Signature>
