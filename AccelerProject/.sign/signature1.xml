@@ -8,11 +8,11 @@
 </Reference>
 <Reference URI="author-signature.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>sknmB8Wq43Zh0fhzhaHSqj822/e8IXMWQVmmIWZD3tg=</DigestValue>
+<DigestValue>PTkJ4gYLBROk+IADZhZptP7ZwrQNKDIpTQuYIvq9HC8=</DigestValue>
 </Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>oMFjyVxGC2JRyRadwW6X7fH3noBYhII2tVwr0so4Kt8=</DigestValue>
+<DigestValue>Fp2xO2uwNql6uc/OwBJ+1VZbAykeb1Ys2yJQF/0to/k=</DigestValue>
 </Reference>
 <Reference URI="css%2Fstyle.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -32,11 +32,11 @@
 </Reference>
 <Reference URI="index.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>lVVYM0pu7QN7XpaZqwxvo/8BdeTVxgAyH3fVIdwhPzc=</DigestValue>
+<DigestValue>IHAIuxkiQcuQvFABcn3aW+BmLFaQUGQVIi6/XK4qTRA=</DigestValue>
 </Reference>
 <Reference URI="js%2Fmain.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>MY0K5YJdrYwyGoyWGxICxvinZSpKZgt/X0nfpYmFjJo=</DigestValue>
+<DigestValue>qTsnVc/92LL/CnBYt8a3nkiUzP+7W0NH92XwR75HKFM=</DigestValue>
 </Reference>
 <Reference URI="lib%2Fflot%2F.gitignore">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -1179,11 +1179,11 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-fYT0wblBo1v2hUx2kTZb6tVmWPSfJqRFhJcF0TImxlWwmWvphRoUoiA4BV6lQBSWE0eMlNIBgci2
-++YlX1fRSRs7XRcdP0xhf1DShqn8m7JTOmanLg7S+WHmqx/SEV1dgT/1uTEZ5mFscrsk4bOeYD2m
-hRD+dqxYKVnDNp3ARwTAz7uyO4t9OHAGVoraJCTp64JqO+MSBQHvU1iBwWVUx+S/1M4sGoxY2hk5
-fBbbAITAqdE32Ok+TgYJcKc6Xy/F3ekwo8XgiI5L6itZD+g7x3AAAC0VVdHEKhmuOnwjNtJp1WRN
-2hqNzFa7/m8scvyrYyVmWzmn4Uo2rx5E2sOyvQ==
+SCQxOcwltGtqxiRC1zdwqaDWWV1tnn7ioFg1v0viWFeRwIiB3wlYjpxoh4rdGVdm7AmDXbv7V4ut
+0LaXaksGGtqjB30PcdyszhxOzcCSx+8++p/vsr0XTRm7JaXjnPlYqKn2xwfVy+JZebXgL8hDv5WN
+LZ6m0ay8vXRHRYYJ3xKcHSmxyXMtt+/IXvknrzYE4amLgneXZuaMGfxm2HXbNyL427T0fu8WJ3nT
+bVWTe0YZBVzhvp8bqMVvu709yemRa6enK6ZU0zGG7ZfuGc1JfFNfzWmt0a+gqL+tGr/eZiY8LPOQ
+gvDYvW2dlQgdN75fNu0D/uPisFcJvxeHT9fT7Q==
 </SignatureValue>
 <KeyInfo>
 <X509Data>

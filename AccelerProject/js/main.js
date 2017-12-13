@@ -8,6 +8,7 @@ var X_data = [
 			data: []
 		}
 ];
+
 var Y_data = [
 		{
 			label: 'Actual Y',
@@ -18,6 +19,7 @@ var Y_data = [
 			data: []
 		}
 ];
+
 var Z_data = [
 		{
 			label: 'Actual Z',
@@ -28,6 +30,7 @@ var Z_data = [
 			data: []
 		}
 ];
+
 var X_store = [[]];
 var Y_store = [[]];
 var Z_store = [[]];
@@ -41,12 +44,22 @@ var record = false;
 var showRecord = false;
 var recordPointer = 0;
 
+//$("#mainWindow").css("width", window.outerWdth);
+//$("#mainWindow").css("height", window.outerHeight);
+
 var p = $.plot($("#placeholderX"), X_data, options);
 var p = $.plot($("#placeholderY"), Y_data, options);
 var p = $.plot($("#placeholderZ"), Z_data, options);
 
+// Linear Acceleration initialization
+if (tizen.systeminfo.getCapability("http://tizen.org/feature/sensor.proximity")) alert("Proximity enable");
+else alert("no");
+if (tizen.systeminfo.getCapability("http://tizen.org/feature/sensor.gravity")) alert("Gravity enable");
+else alert("no");
+if (tizen.systeminfo.getCapability("http://tizen.org/feature/sensor.accelerometer")) alert("Accelerometer enable");
+else alert("no");
 var sensorList = tizen.sensorservice.getAvailableSensors();
-for (var i in sensorList) console.log(sensorList[i]);
+for (var i in sensorList) {console.log(sensorList[i]);}
 var linearAcc = tizen.sensorservice.getDefaultSensor(sensorList[0]);
 linearAcc.getSensorHardwareInfo(hwInfoCB, function(){});
 linearAcc.start(onsuccessCB, onerrorCB);
@@ -76,11 +89,13 @@ function onsuccessCB () {
 		X_data[0].data.push([time, x]);
 		Y_data[0].data.push([time, y]);
 		Z_data[0].data.push([time, z]);
+		
 		if (record) {
 			X_store[0].push([time, x]);
 			Y_store[0].push([time, y]);
 			Z_store[0].push([time, z]);
 		}
+		
 		if (showRecord) {
 			if (recordPointer == X_record[0].length) {
 				recordPointer = 0;
@@ -93,7 +108,7 @@ function onsuccessCB () {
 			}
 		}
 		
-		if (X_data[0].data.length > 81) {
+		if (X_data[0].data.length > 70) {
 			X_data[0].data.shift();
 			Y_data[0].data.shift();
 			Z_data[0].data.shift();
@@ -103,6 +118,7 @@ function onsuccessCB () {
 				Z_data[1].data.shift();
 			}
 		}
+		
 		options = {
 			xaxis : {
 				min : -8 + time, 
@@ -113,6 +129,7 @@ function onsuccessCB () {
 				max : 15
 			}
 		};
+		
 		time += deltaTime;
 		var p = $.plot($("#placeholderX"), X_data, options);
 		var p = $.plot($("#placeholderY"), Y_data, options);
