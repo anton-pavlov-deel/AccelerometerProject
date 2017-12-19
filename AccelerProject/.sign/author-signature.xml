@@ -12,7 +12,7 @@
 </Reference>
 <Reference URI="css%2Fstyle.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>5ZESj6lud529hSWW0G/xNuKfjtrp5HNjwWAB92KwVj8=</DigestValue>
+<DigestValue>aQ24yeLsEJNDw6+ZF1Qt0uIKuNZznh1Lyhg+ohxEorE=</DigestValue>
 </Reference>
 <Reference URI="icon.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -28,11 +28,11 @@
 </Reference>
 <Reference URI="index.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>IHAIuxkiQcuQvFABcn3aW+BmLFaQUGQVIi6/XK4qTRA=</DigestValue>
+<DigestValue>uGUMOgf9mb3BdLLSVGb4tFFOY4vWY+ChCxP1PSLmYXs=</DigestValue>
 </Reference>
 <Reference URI="js%2Fmain.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>qTsnVc/92LL/CnBYt8a3nkiUzP+7W0NH92XwR75HKFM=</DigestValue>
+<DigestValue>MDCbJd8vIGbQ9Oz41UtkNKA3FNo1S8bgiEF4ug+P2p4=</DigestValue>
 </Reference>
 <Reference URI="lib%2Fflot%2F.gitignore">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -1175,11 +1175,11 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-RHt+g06v+bmwq+Bgsr62WAf/7C+TRYEzumz2MM/RBtK4isCJwEsG2x1kJa3/kEAWRX0MM8MfO0qA
-/3jQF0azmLNSX+g3OFm4xhM+KnF0bo+aHi0LFLTdSOzNGve/Vw8mnlFHkkRfMMd4BA9+9NiOS8AV
-m1BJBtQxnJo4NYiDoey4R4shh+bYpVRiXMHHcK9bQ3I6CkmyHp1dEVtKNSaa+UISRAGlHxa/ED+/
-qQE6cJQ0DT9ZiU01kNb4ZKxLbBKf4pfeD6BCQ0MzcvjNj3eQomseX4g/gxDn6WjSWq3fiiz319Ee
-jdj+0tuvlR7S7jQddXzUQnosJMWyYzdeTSSw6w==
+JVLpOnttp6PLDcaKWp6snjlmkdz0VrLVEvoM1pk5cNK+l5kS+3/hTv5eAN+ChkBdn5gZSaKFYz7G
+2M5aZSy2ws32iSZcfhgMIuevj0VNKhTkQCFpyzBxmCA2DzoZempjMHExLJmlG7u7+lG2nDu5d0Oj
+IIsqf2IXTWZCeaJvVDjdfjzjciKHl5b11ZOjLxNG0b+IlzkSqVfu5XPRDHBLb499TQUdLelB0JRb
+ZSRFTK2TU2zl/yXPurlcYc8UZf0J3srfToUzBVRE+TxoVF6lC2ihXdKKXB9jNCTRQ0BWhgOj6tX/
+iu7+m22JaaDMIUD3okdLfESikdIEiVFjbVgS2g==
 </SignatureValue>
 <KeyInfo>
 <X509Data>

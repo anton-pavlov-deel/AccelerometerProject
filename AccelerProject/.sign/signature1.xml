@@ -8,7 +8,7 @@
 </Reference>
 <Reference URI="author-signature.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>PTkJ4gYLBROk+IADZhZptP7ZwrQNKDIpTQuYIvq9HC8=</DigestValue>
+<DigestValue>HukieC1H3uSsBJb3PyLepuEw/asFjQq2Ft2vPexb9Uk=</DigestValue>
 </Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -16,7 +16,7 @@
 </Reference>
 <Reference URI="css%2Fstyle.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>5ZESj6lud529hSWW0G/xNuKfjtrp5HNjwWAB92KwVj8=</DigestValue>
+<DigestValue>aQ24yeLsEJNDw6+ZF1Qt0uIKuNZznh1Lyhg+ohxEorE=</DigestValue>
 </Reference>
 <Reference URI="icon.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -32,11 +32,11 @@
 </Reference>
 <Reference URI="index.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>IHAIuxkiQcuQvFABcn3aW+BmLFaQUGQVIi6/XK4qTRA=</DigestValue>
+<DigestValue>uGUMOgf9mb3BdLLSVGb4tFFOY4vWY+ChCxP1PSLmYXs=</DigestValue>
 </Reference>
 <Reference URI="js%2Fmain.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>qTsnVc/92LL/CnBYt8a3nkiUzP+7W0NH92XwR75HKFM=</DigestValue>
+<DigestValue>MDCbJd8vIGbQ9Oz41UtkNKA3FNo1S8bgiEF4ug+P2p4=</DigestValue>
 </Reference>
 <Reference URI="lib%2Fflot%2F.gitignore">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -1179,11 +1179,11 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-SCQxOcwltGtqxiRC1zdwqaDWWV1tnn7ioFg1v0viWFeRwIiB3wlYjpxoh4rdGVdm7AmDXbv7V4ut
-0LaXaksGGtqjB30PcdyszhxOzcCSx+8++p/vsr0XTRm7JaXjnPlYqKn2xwfVy+JZebXgL8hDv5WN
-LZ6m0ay8vXRHRYYJ3xKcHSmxyXMtt+/IXvknrzYE4amLgneXZuaMGfxm2HXbNyL427T0fu8WJ3nT
-bVWTe0YZBVzhvp8bqMVvu709yemRa6enK6ZU0zGG7ZfuGc1JfFNfzWmt0a+gqL+tGr/eZiY8LPOQ
-gvDYvW2dlQgdN75fNu0D/uPisFcJvxeHT9fT7Q==
+NZDA+0xsb24akTJRuZdV80H6XA7d+Yx5N406e/L/al4Y1YwK3WbNCd01etdlcepVYeNzgZSdYS2S
+H9ARVEWaVnLg9bJKKeUaRikEMIbhvu/hIDz9KekiToTtocRP2p+pbMCC9Mmul6UWWgaH8uh69mGF
+2C+13yslWuIj7hGG4RtNxAqdqbuFZVwUwbiokKee4fGcasTKI4Y/+RlWTpvtki+SCbink/LWiMw/
+FVvhtxBPQj+Pur9+bUSSsZoiz9mSEZGmtpHliMRKodULb3V9O4mfFwaFfpM/e6eMTT3JHe730vmI
+/y6pezRGsojYhBquXeUAerQbnaIha/pzfnA7vA==
 </SignatureValue>
 <KeyInfo>
 <X509Data>

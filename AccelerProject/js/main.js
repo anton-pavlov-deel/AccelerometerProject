@@ -159,6 +159,7 @@ $("#recordButton").click(function(){
 		Y_store = [[]];
 		Z_store = [[]];
 		record = false;
+		$("#saveButton").prop("disabled", false);
 		$("#showButton").prop("disabled", false);
 		$("#recordButton").attr("value", "Start");
 	}
