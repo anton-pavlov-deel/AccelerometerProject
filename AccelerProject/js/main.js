@@ -170,5 +170,57 @@ $("#showButton").click(function(){
 	X_data[0].data = [];
 	Y_data[0].data = [];
 	Z_data[0].data = [];
+	X_data[1].data = [];
+	Y_data[1].data = [];
+	Z_data[1].data = [];
+	recordPointer = 0;
 	showRecord = true;
+});
+
+$("#loadButton").click(function(){
+	var xhr = new XMLHttpRequest();
+
+	var name = prompt("Enter a name of record", "");
+	
+	var params = 'name=' + encodeURIComponent(name);
+
+	xhr.open("GET", 'http:/localhost:3000/api/record/submit?' + params, true);
+	xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+
+	xhr.onreadystatechange = function () {
+		if (xhr.readyState === XMLHttpRequest.DONE && xhr.status === 500) {
+			alert("Not found with this name: " + name);
+		} else if (xhr.readyState === XMLHttpRequest.DONE && xhr.status === 200) {
+            alert(xhr.responseText);
+        } else {
+        	alert("UNKNOWN ERROR");
+        }
+    };
+
+	xhr.send();
+});
+
+$("#saveButton").click(function(){
+	var xhr = new XMLHttpRequest();
+
+	var name = prompt("Enter a name:", "");
+	var description = prompt("Enter a description:", "");
+	
+	var params = 'name=' + encodeURIComponent(name) +
+	  '&X_data=' + encodeURIComponent(JSON.stringify(X_record)) +
+	  '&Y_data=' + encodeURIComponent(JSON.stringify(X_record)) +
+	  '&Z_data=' + encodeURIComponent(JSON.stringify(X_record)) +
+	  '&description=' + encodeURIComponent(description);
+	  
+
+	xhr.open("POST", 'http:/localhost:3000/api/record/submit?' + params, true);
+	xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+
+	xhr.onreadystatechange = function () {
+        if(xhr.readyState === XMLHttpRequest.DONE && xhr.status === 200) {
+            console.log(xhr.responseText);
+        };
+    };
+
+	xhr.send();
 });

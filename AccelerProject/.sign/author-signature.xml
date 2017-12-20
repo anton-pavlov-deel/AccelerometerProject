@@ -32,7 +32,7 @@
 </Reference>
 <Reference URI="js%2Fmain.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>MDCbJd8vIGbQ9Oz41UtkNKA3FNo1S8bgiEF4ug+P2p4=</DigestValue>
+<DigestValue>IJQhBNjC3W13rfUnJFUAhyKbpJtavbjA3zIm7uNXT6U=</DigestValue>
 </Reference>
 <Reference URI="lib%2Fflot%2F.gitignore">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -1175,11 +1175,11 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-JVLpOnttp6PLDcaKWp6snjlmkdz0VrLVEvoM1pk5cNK+l5kS+3/hTv5eAN+ChkBdn5gZSaKFYz7G
-2M5aZSy2ws32iSZcfhgMIuevj0VNKhTkQCFpyzBxmCA2DzoZempjMHExLJmlG7u7+lG2nDu5d0Oj
-IIsqf2IXTWZCeaJvVDjdfjzjciKHl5b11ZOjLxNG0b+IlzkSqVfu5XPRDHBLb499TQUdLelB0JRb
-ZSRFTK2TU2zl/yXPurlcYc8UZf0J3srfToUzBVRE+TxoVF6lC2ihXdKKXB9jNCTRQ0BWhgOj6tX/
-iu7+m22JaaDMIUD3okdLfESikdIEiVFjbVgS2g==
+a07HqAXwZTK23oF1zn6tXZHOkKRDvIqp4CrWxo8OpvTQtO5mx9QOsItuIbrM8qJohuVWabYxd9k6
+uhGkxs3BwWrELLXi5B2KuJtmcATgLnKpzaTzzv946SbuJbra0lTZJ0m3JpX/OU15jokSX4rN/udb
+ydMPG/KkQ4tUZGOh34bYhfiXsBcx1MMIaY1At6deKSO5EKZmxXCYFdnXi4n7JWNlr5zG1bvr7Ee0
+pfxvasXi8IDUssuDpTik7gI37QRdZbEmKHG66bwIF8EaaM4S8xErCA3khu+GNdIWsZGtLrGmvMjl
+sLcWL9wHS32MIpxsigQAeVYKRDACINZaWBXGFw==
 </SignatureValue>
 <KeyInfo>
 <X509Data>
