@@ -1154,6 +1154,34 @@
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>IpLU+Mb1c63YvBGZWU3+8zcx7kVp3y5gE4iRP2Jt9Y4=</DigestValue>
 </Reference>
+<Reference URI="screens%2Fload_record.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>NNyaOcRQwYklZpzU7GAszu+7YYBLwRoBG5+PHeBRMX8=</DigestValue>
+</Reference>
+<Reference URI="screens%2Fmain_cycle.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>GBwjjirywjZgIXp6oyU8UkhcfJogEtnSw67LTfrJjyg=</DigestValue>
+</Reference>
+<Reference URI="screens%2Frecord_enable.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rNWco42PhAYqw7pIFhxrFneLHNZXKjpPZJXmwer/kko=</DigestValue>
+</Reference>
+<Reference URI="screens%2Frecording.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>xrGzp/R5mNSBa4iB4EmJyQKMSZ0ZkTyMr+ZyjzVoVEc=</DigestValue>
+</Reference>
+<Reference URI="screens%2Fsave_record_descr.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>csogO3Qp+v6sCjUh9G5eAAmfneLSbtSjMULxgH2i8Do=</DigestValue>
+</Reference>
+<Reference URI="screens%2Fsave_record_name.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>yVN8Bg84iv2b07gvDT0GRKGUPvvL03gLrZWg/P+HKrA=</DigestValue>
+</Reference>
+<Reference URI="screens%2Fshow_record.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Rot+/6wFrs9e2OIYlEia3mSE4JPcGsaR5fSO6JkfCHw=</DigestValue>
+</Reference>
 <Reference URI="#prop">
 <Transforms>
 <Transform Algorithm="http://www.w3.org/2006/12/xml-c14n11"></Transform>
@@ -1163,9 +1191,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-AYwVXq27vPIEXjTTqwNP1va1/qWoyecWKvasW32cIR1pIUDHVq52XVmFFybutufw6OzAtKHWL+pA
-N3ACSWeospHCuUuBCf/hVYvzetRMhLpSybP9qjuqseyn8BoODMAxt64tC9eUfgBLIyPEsocBsc5I
-CIoSPhlVzL2z9zOzGjc=
+W5hGycyNJCp56yxR4YR5w1kp1I4652ncP2uIePkYXG9HaV7oTyFhHT8KMZgxjAp5ATqDrMAxc7R7
+JpnUXQdZ9MIyUwTqeDNEMTIwRLhMtL3tFvb/+VnuN+MFynHApLeEYRifxUaQ/ymmyf9Mb6hkyIXP
+xfD6kcnfx1n/WXB0Ito=
 </SignatureValue>
 <KeyInfo>
 <X509Data>
