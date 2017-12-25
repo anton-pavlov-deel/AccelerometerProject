@@ -1,11 +1,8 @@
-BasicUI.wgt__DEL__wGpY05Gt9MpzSTmpWX/MI6PAx8Z08e7JxJbwvbNVt1g=
-config.xml__DEL__Fp2xO2uwNql6uc/OwBJ+1VZbAykeb1Ys2yJQF/0to/k=
+config.xml__DEL__Fol6ycJveTiuBY9xByhoRgcivn9GlkBLkCrAICFVLZ4=
 css/style.css__DEL__aQ24yeLsEJNDw6+ZF1Qt0uIKuNZznh1Lyhg+ohxEorE=
 icon.png__DEL__1d0oEZHqPn+QzNzGIHwj9ODby6x9ggFs9uOsav6jPNs=
-images/play.png__DEL__aNOSDWDh9tNIM5VwfWmy6C6bJLo+j7p3D6t2Kk11Trc=
 images/tizen_32.png__DEL__eDr9ZPFlGlapLDnI1BiALwqovNdBvx3Aspc/lWOH3WI=
 index.html__DEL__uGUMOgf9mb3BdLLSVGb4tFFOY4vWY+ChCxP1PSLmYXs=
-js/main.js__DEL__IJQhBNjC3W13rfUnJFUAhyKbpJtavbjA3zIm7uNXT6U=
 lib/flot/.gitignore__DEL__rYAvDHy/Bm1gptVtGKb2vKq5+rUECx6bHyS+v4g06Vc=
 lib/flot/.travis.yml__DEL__p0oKMgqphgZ+NQcjBRTMM6rrAy1zUSpY3qcWk8Wb2oI=
 lib/flot/API.md__DEL__72dZn13BDmlKiq6sIYt6dpzFU93JTuQnaoDQSFvIhG0=
@@ -75,7 +72,6 @@ lib/flot/examples/series-pie/index.html__DEL__JfoVrzrgJUPIGeMf0nM3TCpvHWtu34Dchw
 lib/flot/examples/series-toggle/index.html__DEL__VctDpzscL0+mLJbvqplM8fEC12dP1WG6v3l+7do9jmI=
 lib/flot/examples/series-types/index.html__DEL__e1M/bSaqTkBnO9LakI9H6ES3JOZa8DFKebIFFB4FSAY=
 lib/flot/examples/shared/jquery-ui/jquery-ui.min.css__DEL__/bmqguVs7l2GDmXt2jZ8uRwKDp0FLAIcb6rORDP2WPA=
-lib/flot/examples/shared/jquery-ui/jquery-ui.min.js__DEL__E6zikx3K74t9YzNSOzEPw6SWFIhNuh+tjIRkPIN+KzQ=
 lib/flot/examples/stacking/index.html__DEL__2dBUshcKFcUlYtSiMkmQfm0+gnlYOcYaWdvNPoGmh4I=
 lib/flot/examples/symbols/index.html__DEL__3bvl/QQjgBJGE8zKJcUbX9GCLnY++pqm7H5yL5VTutc=
 lib/flot/examples/threshold/index.html__DEL__vqiZ5KlZdmOL+XE5M5AhVzmGGzZfSeWxyB5i3X7QzXw=
@@ -289,4 +285,5 @@ lib/tau/mobile/theme/default/tau.support-2.3.template__DEL__y2hyxtTU0P1NWPjdrqHJ
 lib/tau/mobile/theme/default/tau.template__DEL__CXxJ9mkg6Uf6qGPS9Kp6TJE+Dn2W+oSR+/Y9ZckgjH0=
 lib/tau/mobile/theme/default/theme.js__DEL__aNZtpUArjN9hVFK2UODcVp+5c8SU8CuZsqL0ekosf5A=
 lib/tau/mobile/theme/default/theme.min.js__DEL__IpLU+Mb1c63YvBGZWU3+8zcx7kVp3y5gE4iRP2Jt9Y4=
-author-signature.xml__DEL__amn7UafBKRR3bCmm/Br6T8VrY7S4ave53ey3pZ7BB0k=
+author-signature.xml__DEL__8ev2JMJSRjKWZcm5Y15YcX8cg0BhXg+pSqVGzgta6mM=
+js/main.js__DEL__LcJMvOaeZxDWGUZzX187uwTQVwr5IMBD+8GiKxttkGs=

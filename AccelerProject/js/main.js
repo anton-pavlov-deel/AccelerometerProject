@@ -137,27 +137,49 @@ function onsuccessCB () {
 	}, deltaTime*1000, 0);
 }
 
+function restoreData(withRecordData) {
+	X_data[0].data = [];
+	Y_data[0].data = [];
+	Z_data[0].data = [];
+	if (withRecordData) {
+		X_data[1].data = [];
+		Y_data[1].data = [];
+		Z_data[1].data = [];
+	}
+}
+
+function restoreRecord(withEmptyRecord) {
+	X_record = X_store;
+	Y_record = Y_store;
+	Z_record = Z_store;
+	if (withEmptyRecord) {
+		X_record = [[]];
+		Y_record = [[]];
+		Z_record = [[]];
+	}
+}
+
+function restoreStore() {
+	X_store = [[]];
+	Y_store = [[]];
+	Z_store = [[]];
+}
+
 $("#recordButton").click(function(){
 	if ($("#recordButton").val() == "Start") {
 		time = 0;
-		X_data[0].data = [];
-		Y_data[0].data = [];
-		Z_data[0].data = [];
+		restoreData(true);
+		restoreStore();
+		recordPointer = 0;
 		record = true;
 		showRecord = false;
 		$("#showButton").prop("disabled", true);
 		$("#recordButton").attr("value", "Stop");
 	} else {
 		time = 0;
-		X_data[0].data = [];
-		Y_data[0].data = [];
-		Z_data[0].data = [];
-		X_record = X_store;
-		Y_record = Y_store;
-		Z_record = Z_store;
-		X_store = [[]];
-		Y_store = [[]];
-		Z_store = [[]];
+		restoreData(false);
+		restoreRecord(false);
+		restoreStore();
 		record = false;
 		$("#saveButton").prop("disabled", false);
 		$("#showButton").prop("disabled", false);
@@ -167,12 +189,7 @@ $("#recordButton").click(function(){
 
 $("#showButton").click(function(){
 	time = 0;
-	X_data[0].data = [];
-	Y_data[0].data = [];
-	Z_data[0].data = [];
-	X_data[1].data = [];
-	Y_data[1].data = [];
-	Z_data[1].data = [];
+	restoreData(true);
 	recordPointer = 0;
 	showRecord = true;
 });
